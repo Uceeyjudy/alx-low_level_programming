@@ -9,6 +9,7 @@ int main(void)
 {
 	char alpUpper[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
+
 	for (i = 0; i < 52; i++)
 	{
 		putchar(alpUpper[i]);
