@@ -4,9 +4,10 @@
  *
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
-	char alpUpper[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYX";
+	char alpUpper[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
 	for (i = 0; i < 52; i++)
 	{
