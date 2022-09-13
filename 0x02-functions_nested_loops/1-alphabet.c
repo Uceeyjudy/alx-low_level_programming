@@ -5,8 +5,7 @@
  *
  * Return: 0 when successfull
  */
-
-int main(void)
+void print_alphabet(void)
 {
 	int i;
 
