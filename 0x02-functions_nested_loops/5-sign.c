@@ -14,18 +14,18 @@ int print_sign(int n)
 {
 	if (n > 48)
 	{
+		_putchar(43);
 		return (1);
-		printf("+");
 	}
 	else if (n == 0)
 	{
+		_putchar(48);
 		return (0);
-		printf(0);
 	}
 	else
 	{
+		_putchar(45)
 		return (-1);
-		printf("-")
 	}
 	_putchar('\n');
 }
