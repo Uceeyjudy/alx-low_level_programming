@@ -3,8 +3,7 @@
 /**
  * main - prints nos 1 to 100
  *
- *
- * Return fizz for multiples of 3
+ * Return: fizz for multiples of 3
  * buzz for multiples of 5
  * and fizzbuss for multiples of 3 and 5
  */
