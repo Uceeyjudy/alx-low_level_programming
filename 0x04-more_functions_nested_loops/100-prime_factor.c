@@ -15,7 +15,7 @@ int main(void)
 	{
 		if (n % pf == 0)
 		{
-			pf = n / pf;
+			n /= pf;
 			pf--;
 		}
 	}
