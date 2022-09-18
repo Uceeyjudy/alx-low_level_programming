@@ -13,7 +13,7 @@ int main(void)
 	n = 612852475143;
 	for (pf = 2; pf <= n; pf++)
 	{
-		if (n % pf == 2)
+		if (n % pf == 0)
 		{
 			pf = n / pf;
 			pf--;
