@@ -1,4 +1,4 @@
-#indlude "main.h"
+#include "main.h"
 /**
  * swap_int - swappes the value of intergers
  * @a: first interger
