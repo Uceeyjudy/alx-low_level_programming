@@ -6,14 +6,14 @@ Technologies
     Scripts written in Bash 4.3.11(1)
     C files are compiled using gcc 4.8.4
     C files are written according to the C90 standard
-    Tested on Ubuntu 14.04 LTS
+    Tested on Ubuntu 20.04 LTS
 
 <h3>Projects</h3>
 
 All of the following folders are projects done during the studies:
 Project name 	Description
-0x00-hello_world |	It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language
----
+#0x00-hello_world |	#It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language
+|:---:|
 0x01-variables_if_else_while 	It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language
 ---
 0x02-functions_nested_loops 	It aims to learn about header files, functions, loops and nested loops in C language
