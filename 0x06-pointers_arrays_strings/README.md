@@ -1,15 +1,15 @@
 <h1>More pointers, arrays and strings</h1>
--------------------------------------------------
+
 Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about pointers and arrays in C language.
 <h2>Technologies</h2>
---------------------------------------------------
+
 
     C files are compiled using gcc 4.8.4
     C files are written according to the C90 standard
     Tested on Ubuntu 14.04 LTS
 
 <h3>Files</h3>
--------------------------------------------------------------------
+
 All of the following files are programs written in C:
 
 |Filename| 	Description|
