@@ -11,6 +11,7 @@ Project done during Full Stack Software Engineering studies at Holberton School.
 
 All of the following files are programs written in C:
 |Filename| 	Description|
+|---------|-----------------|
 |0-puts_recursion.c| 	Prints a string|
 |1-print_rev_recursion.c| 	Prints a string in reverse|
 |2-strlen_recursion.c |	Returns the length of a string|
